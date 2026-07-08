@@ -149,11 +149,11 @@ HR-Analytics-Dashboard/
 
 ### Dashboard 1 – Employee Overview
 
-![Dashboard 1](dashboard%20.png)
+![Dashboard 1](https://github.com/haithemalsayed/HR-Dashboard/blob/main/dashboard%20.png)
 
 ### Dashboard 2 – Employee Insights
 
-![Dashboard 2](dashboard%202.png)
+![Dashboard 2](https://github.com/haithemalsayed/HR-Dashboard/blob/main/dashboard%202.png)
 
 ---
 
